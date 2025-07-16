@@ -1,0 +1,1144 @@
+﻿
+ABC转运体 ABC transporter 77
+ATP合酶复合体 ATP synthase complex 132
+A位 aminoacyl site 205
+Cdk激活激酶 Cdk activating kinase，CAK 290
+Cdk抑制因子 Cdk inhibitor，CKI 290
+cDNA克隆 cDNA cloning 50
+COPI 有被小泡 COPI-coated vesicle 117
+COP n 有被小泡 COP n-coated vesicle 117
+C型利尿钠肽 natriuretic peptide type C，Nppc 306
+DNA复制复合体 DNA replication complex 188
+DNA甲基化酶 DNA methylase，DNMT 216
+DNA 结合域 DNA-binding domain 212
+DNA连接酶 DNA ligase 190
+DNA损伤应答 DNA damage response，DDR 336
+E-钙黏着蛋白 epithelial cadherin,E-cadherin 229
+E选择素 endothelial selectin 231
+GTP结合调节蛋白 GTP binding regulatory protein 257
+G 蛋白耦联受体 G-protein coupled receptor, GPCR 257
+L选择素 leukocyte selectin 231
+NADH-CoQ 氧化还原酶-1 NADH-CoQ oxidoreductase 1, ND1 133
+Northern印迹杂交 Northern blot 47, 49
+N-钙黏着蛋白 neural cadherin, N-cadherin 229
+N-连接糖基化 N-linked glycosylation 97
+P-钙黏着蛋白 placental cadherin, P-cadherin 229
+P位 peptidyl site 205
+P型离子泵 P-class ion pump 75
+P选择素 platelet selectin 231
+Rho 相关激酶 Rho-associated kinase,ROCK 166
+RNA干扰 RNA interference，RNAi 21, 50
+RNA 诱导沉默复合物 RNA-induced silencing complex, RISC 50
+SDS聚丙烯酰胺凝胶电泳SDS-polyacrylamide gel electrophoresis, SDS-PAGE 45
+SD 序列 Shine-Dalgarno sequence 205
+Southern印迹杂交 Southern blot 47, 58
+Tau 蛋白神经原纤维缠结 Tau-containing neurofibrillary tangle 339
+VE-钙黏着蛋白 vascular endothelial cadherin, VE-cadherin 229
+V 型质子泵 V-class proton pump 77
+Y 染色体性别决定区 sex-determining region of Y chromosome，SRY 301
+α辅肌动蛋白 α-actinin 155, 223
+α螺旋 α helix 22
+α微管蛋白 α-tubulin 149
+β辅肌动蛋白 β-actinin 155
+β片层 β sheet 22
+β微管蛋白	β-tubulin 149
+γ 微管蛋白环形复合体 γ-tubulin ring complex, γ-TuRC 150
+A
+阿尔茨海默病 Alzheimer’s disease,AD 167
+癌基因 oncogene 299, 337
+癌基因诱导的细胞衰老oncogene-induced senescence， OIS 337
+氨基酸 amino acid 15
+氨酰tRNA aminoacyl tRNA 204 暗视野显微镜 dark-field microscope 30
+B
+靶 SNARE target-SNARE,t-SNARE 121
+摆动性 wobble 204
+斑珠蛋白 plakoglobin 223
+半保留复制 semiconservative replication 17, 189
+半不连续复制 semidiscontinuous replication 190
+半桥粒 hemidesmosome 223
+伴侣蛋白 chaperonin 208
+胞嘧啶 cytosine，C 15
+胞膜窖 caveola 85
+胞内锚定蛋白 intracellular anchor protein 223
+胞饮作用 pinocytosis 81
+胞质斑 cytoplasmic plaque 224
+胞质分裂 cytokinesis 280
+胞质杂种 cybrid 374
+被动运输 passive transport 73
+闭合蛋白 occludin 222
+壁颗粒细胞 mural granulosa cell 306
+边缘板 marginal plate 114
+编码链 coding strand 198
+编码区 coding region 19, 195
+384
+
+鞭毛 flagellum 152
+变态 metamorphosis 329
+表观遗传 epigenetics 322
+表观遗传调控 epigenetic regulation 338
+表观遗传学 epigenetics 9
+表皮干细胞 epidermal stem cell 362
+病毒 virus 13
+波形蛋白 vimentin 161
+补偿性再生 compensatory regeneration 332
+不对称分裂 asymmetric division 359
+不对称转录 asymmetrical transcription 198
+C
+残余体 residual body 112
+蚕食蛋白 depactin 155
+操纵子 operon 210
+糙面内质网 rough endoplasmic reticulum，RER 90
+侧向扩散 lateral diffusion 68
+侧向抑制 lateral inhibition 329
+层粘连蛋白 laminin，LN 249
+差速离心法 differential centrifugation 41
+差异基因表达 differential gene expression 317
+长春新碱 vincristine 151
+常规剪接 constitutive splicing 216
+常染色质 euchromatin 179
+超分辨显微镜 super-resolution microscope 32
+超级增强子 super-enhancer 325
+超螺线管 supersolenoid 180
+超数排卵 superovulation 377
+超微结构 ultrastructure 12, 33
+巢蛋白 entactin，nidogen 251
+沉默子 silencer 211
+成核 nucleation 150
+成核期 nucleation phase 150
+成人早老症 Werner’s syndrome 338
+成熟卵泡 mature follicle 306
+成熟面 mature face 101
+成肽 peptide bond formation 207
+成体肝干细胞 hepatic stem cell，liver stem cell 365
+成体干细胞 adult stem cell 8, 354
+成纤维细胞生长因子 fibroblast growth factor，FGF 327
+程序性坏死 programmed necrosis 340, 349
+程序性细胞死亡 programmed cell death，PCD 6, 341
+重塑子 remodeler 324
+重组结 recombination nodule 283
+初级精母细胞 primary spermatocyte 302
+初级卵母细胞 primary oocyte 305
+初级卵泡 primary follicle 305
+初级溶酶体 primary lysosome 111
+触角足复合体 Antennapedia complex，Antp 321
+穿膜蛋白 transmembrane protein 65
+穿膜黏着蛋白 transmembrane adhesion protein 223
+穿膜运输 transmembrane transport 116
+传代培养 secondary culture 39
+串流 cross-talk 273
+串珠蛋白聚糖 perlecan 251
+纯睾丸支持细胞综合征Sertoli-cell-only syndrome 304
+雌原核 female pronucleus 310
+次级精母细胞 secondary spermatocyte 303
+次级卵泡 secondary follicle 305
+次级溶酶体 secondary lysosome 112
+次缢痕 secondary constriction 183
+刺激性 G 蛋白 stimulatory G-protein,Gs 261
+刺激性受体 stimulatory receptor，Rs 261
+粗肌丝 thick myofilament 159
+粗线期 pachytene stage 283, 302
+促成熟因子 maturation promoting factor，MPF 287, 306
+促卵泡激素 follicle stimulating hormone，FSH 304
+促性腺激素释放激素 gonadotropin releasing hormone， GnRH 304
+D
+大分子机器 macromolecular machine 24
+代谢耦联 metabolic coupling 226
+戴帽 capping 199
+单倍体 haploid 301
+单纯型大疱性表皮松解症 epidermolysis bullosa simplex 167
+单分子荧光成像 single molecular fluorescence imaging 48
+单加氧酶 monooxygenase 100
+单拷贝序列 single-copy sequence 177
+单克隆抗体 monoclonal antibody 379
+单能干细胞 unipotent stem cell 355
+单顺反子 monocistron 19
+单糖 monosaccharide 15
+单位膜 unit membrane 13, 71
+单一序列 unique sequence 177
+胆管周围腺 peribiliary gland 365
+胆碱磷酸转移酶 choline phosphotransferase 100
+蛋白聚糖 proteoglycan，PG 240
+蛋白酶体 proteasome 209
+蛋白质 protein 21
+蛋白质二硫键异构酶 protein disulfide isomerase，PDI
+94, 208
+385
+
+蛋白质芯片 protein chip 55
+蛋白质印迹杂交 Western blot 49
+蛋白质组 proteome 9, 56
+蛋白质组学 proteomics 2, 9, 56
+等电点 isoelectric point 46
+等电聚焦电泳 isoelectric focusing electrophoresis 46
+低密度脂蛋白 low-density lipoprotein，LDL 99
+底物水平磷酸化 substrate-level phosphorylation 140
+第二极体 second polar body 306
+第二信使 second messenger 258
+第一极体 first polar body 306
+电耦联 electric coupling 226
+电压门控通道 voltage-gated channel 79
+电泳 electrophoresis 45
+电泳迁移率变动分析 electrophoretic mobility shift assay，
+EMSA 53
+电子传递呼吸链 electron transport respiratory chain 142
+电子显微镜 electron microscope，EM 33
+凋亡小体 apoptotic body 340
+顶端外胚层帽 apical ectodermal cap 332
+顶体 acrosome 113, 303
+顶体反应 acrosome reaction 309
+顶体酶 acrosomal enzyme 309
+动力蛋白 dynein 152
+动力蛋白臂 dynein arm 152
+动粒 kinetochore 182, 278
+动粒域 kinetochore domain 182
+动态不稳定性 dynamic instability 150
+动质 ergastoplasm 89
+端粒 telomere 9, 183, 337
+端粒序列 telomere sequence 178
+端着丝粒染色体 telocentric chromosome 182
+短发卡RNA short hairpin RNA，shRNA 51
+短杆素 brevin 155
+断裂基因 split gene 195
+对称分裂 symmetric division 359
+多倍体 polyploid 318
+多泛素化 polyubiquitination 209
+多级螺旋模型 multiple coiling model 181
+多精入卵 polyspermy 311
+多聚ADP- 核糖基化 poly(ADP-ribosyl)ation 214
+多聚核糖体 polyribosome 207
+多能干细胞 pluripotent stem cell 354
+多能性重编程 pluripotent reprogramming 378
+多泡体 multivesicular body 107, 123
+多顺反子 polycistron 18
+多顺反子转录 polycistronic transcription 133
+多萜醇 dolichol 97
+多线体 polyteny 318
+多向分化潜能 pluripotency 354
+E
+儿童早老症 Hutchinson-Gilford progeria syndrome，HGPS 338
+二倍体 diploid 301
+二代测序 next-generation sequencing，NGS 55
+二价体 bivalent 282
+二聚体 dimer 22, 248
+F
+发动蛋白 dynamin 117
+翻译 translation 18, 194
+翻转酶 flippase 100
+反馈 feedback 273
+反密码子 anticodon 20, 204
+反面 trans-face 101
+反面高尔基网 trans-Golgi network 102
+反式作用因子 trans-acting factor 211
+反向运输 antiport 77
+反向转运体 retrotranslocon 95
+反义链 antisense strand 198
+泛素 ubiquitin 209
+泛素蛋白酶 ubiquitin protease 324
+泛素 - 蛋白酶体途径 ubiquitin-proteasome system 208
+泛素化 ubiquitination 214
+房室性区域化 compartmentalization 89
+纺锤体 spindle 279
+放大效应 amplification 272
+放射辐条 radial spoke 152
+放射冠 corona radiata 305
+非编码RNA non-coding RNA 18, 326
+非编码区 non-coding region 195
+非翻译区 untranslated region，UTR 19
+非连续性分泌 discontinuous secretion 104
+非细胞体系 cell free system 42
+非组蛋白 nonhistone protein，NHP 178
+分辨率 resolution，R 29
+分裂间期 interphase 285
+分支点 branch site 200
+分子伴侣 molecular chaperone 96, 208
+分子伴侣介导的自噬 chaperone-mediated autophagy，
+CMA 110
+分子开关 molecular switch 258
+封闭连接 occluding junction 220
+386
+
+负性调控 negative regulation 210
+复制 replication 194
+复制叉 replication fork 189
+复制性衰老 replicative senescence 336
+复制源序列 replication origin sequence 177
+复制子 replicon 189
+G
+钙波 calcium wave 311
+钙连蛋白 calnexin 94
+钙黏着蛋白 cadherin 223, 228
+钙调蛋白 calmodulin 159
+钙网蛋白 calreticulin 94
+甘露糖 -6- 磷酸 mannose-6-phosphate，M-6-P 108
+肝素 heparin 241
+干细胞 stem cell 354
+干细胞巢 stem cell niche 361
+干细胞生物学 stem cell biology 2
+干细胞因子 stem cell factor，SCF 367
+冈崎片段 Okazaki fragment 190
+高度重复序列 highly repetitive sequence 177, 196
+高尔基复合体 Golgi complex 101
+高尔基体 Golgi body 101
+高尔基体堆 Golgi stack 101
+高尔基中间膜囊 medial Golgi stack 102
+高压电子显微镜 high-voltage electron microscope，HVEM 34
+高压液相层析 high performance liquid chromatography， HPLC 43
+睾酮 testosterone 304
+睾丸决定因子 testis-determining factor，TDF 301
+共翻译插入 cotranslation insertion 97
+骨架 - 放射环结构模型 scaffold-radial loop structure model 181
+骨髓间充质干细胞 bone marrow mesenchymal stem cell， BMMSC 380
+骨形成蛋白 bone morphogenetic protein，BMP 328
+固醇调节级联反应 sterol regulatory cascade 101
+固定化培养 immobilized culture 372
+寡聚体 oligomer 150
+管家基因 housekeeping gene 210, 317
+光面内质网 smooth endoplasmic reticulum，SER 90
+光学显微镜 light microscope 29
+胱天蛋白酶 cysteine aspartic acid specific protease，
+caspase 343
+鬼笔环肽 phalloidin 158
+国际细胞治疗学会 International Society for Cellular
+Therapy 363
+过度增殖 hyperproliferation 337
+过渡放大前体细胞 transit amplifying progenitor cell，TAP 360
+过渡放大细胞 transit amplifying cell，TaC 360
+过氧化物酶体 peroxisome 114
+过氧化物酶体引导信号 peroxisomal targeting signal，PTS 115
+H
+含铁小体 siderosome 112
+合子 zygote 301
+核被膜 nuclear envelope 170
+核定位信号 nuclear localization signal，NLS 5, 174
+核定位序列 nuclear localization sequence，NLS 174
+核分裂 karyokinesis 4
+核苷酸 nucleotide 15
+核骨架 nuclear skeleton 187
+核基质 nuclear matrix 187
+核基质蛋白 nuclear matrix protein，NMP 188
+核基质结合蛋白 nuclear matrix associated protein，NMAP 188
+核基质结合序列 matrix-attached region，MAR 188
+核孔 nuclear pore 171
+核孔复合体 nuclear pore complex，NPC 171
+核酶 ribozyme 21, 202
+核膜 nuclear membrane 170
+核内异质RNA heterogeneous nuclear RNA，hnRNA 198
+核仁组织区 nucleolus organizing region，NOR 183
+核仁组织染色体 nucleolar-organizing chromosome 184
+核仁组织者 nucleolar organizer 184
+核受体 nuclear receptor 257, 271
+核糖核酸 ribonucleic acid，RNA 15
+核糖体 ribosome 13, 19, 204
+核糖体RNA ribosomal RNA，rRNA 195
+核糖体结合位点 ribosome binding site，RBS 205
+核糖体循环 ribosome circulation 207
+核纤层 nuclear lamina 172
+核纤层蛋白 lamin 13, 161, 172
+核纤层蛋白A Lamin A 338
+核小核糖核蛋白颗粒 small nuclear ribonucleoprotein
+particle，snRNP 200
+核小体 nucleosome 180
+核小体组蛋白 nucleosomal histone 178
+核质 karyoplasm 4
+核质比 nuclear-cytoplasmic ratio 169
+核质蛋白 nucleoplasmin 174
+核周隙 perinuclear space 170
+387
+
+黑林管 Hering canal 365
+恒定型分泌 constitutive secretion 104
+后期 anaphase 280
+后期促进复合物 anaphase promoting complex，APC 289
+后溶酶体 post-lysosome 112
+后随链 lagging strand 190
+呼吸链 respiratory chain 142
+化生 metaplasia 378
+化学渗透假说 chemiosmotic coupling hypothesis 144
+踝蛋白 talin 166, 224
+坏死 necrosis 340
+坏死复合体 necrosome 349
+坏死性凋亡 necroptosis 340, 349
+环孔片层 annulate lamella 92
+混合功能氧化酶 mixed function oxidase 100
+活化素 activin 328
+活性氧 reactive oxygen species，ROS 139, 337
+活性阻遏蛋白 active repressor 214
+获能 capacitation 308
+J
+机械门控通道 mechanically-gated channel 79
+肌成束蛋白 fascin 155
+肌动蛋白 actin 154
+肌动蛋白皮层 actin cortex 158
+肌动蛋白丝 actin filament 154
+肌动蛋白相关蛋白 actin-related protein 2/3，Arp2/3	164
+肌钙蛋白 troponin 159
+肌节 sarcomere 159
+肌球蛋白 myosin 152, 159
+肌球蛋白 -Ⅰ myosin-Ⅰ 159
+肌球蛋白轻链激酶 myosin light chain kinase，MLCK 166
+肌球蛋白轻链磷酸酶 myosin light chain phosphatase，
+MLCP 166
+肌丝滑动模型 sliding filament model 159
+肌萎缩侧索硬化 amyotrophic lateral sclerosis，ALS 167
+肌质网 sarcoplasmic reticulum 90
+基粒 granum 132
+基膜 basal lamina，basement membrane 250
+基因 gene 194
+基因表达 gene expression 194
+基因簇 gene cluster 196
+基因家族 gene family 196
+基因敲除 gene knock-out 57
+基因芯片 gene chip 55
+基因转移 gene transfer 376
+基因组 genome 9, 13, 17, 177, 194
+基因组学 genomics 2, 9
+基因组印记 genomic imprinting 324
+基因座控制区 locus control region，LCR 319
+基质 matrix 132
+基质导入序列 matrix-targeting sequence，MTS 135
+基质金属蛋白酶 matrix metalloproteinase，MMP 252
+基质腔 matrix space 132
+基质作用蛋白酶 matrix processing protease，MPP 136
+畸胎瘤 teratoma 355
+激光捕获显微切割 laser capture microdissection，LCM 38
+激光扫描共聚焦显微镜 confocal laser scanning microscope，CLSM 31
+激素应答元件 hormone response elemen，HRE 271
+极低密度脂蛋白 very low-density lipoprotein，VLDL 99
+极化 polarization 166
+集钙蛋白 calsequestrin 94
+嵴 cristae 132
+嵴间腔 intercristae space 132
+嵴内空间 intracristae space 132
+加帽蛋白 capping protein 155
+加尾 tailing 199
+甲基化 methylation 214
+假基因 pseudogene 196
+间充质干细胞 mesenchymal stem cell，MSC 363
+兼性异染色质 facultative heterochromatin 179
+检查点 checkpoint 295
+减数分裂 meiosis 4, 281
+剪接 splicing 200
+剪接体 spliceosome 200
+简单扩散 simple diffusion 73
+间隙连接 gap junction 226
+交叉 chiasma 283
+交叉端化 chiasma terminalization 283
+胶原 collagen 244
+胶原纤维 collagen fiber 245
+胶原原纤维 collagen fibril 245
+胶质细胞原纤维酸性蛋白 glial fibrillary acidic protein 161
+角蛋白	keratin	160
+窖蛋白	caveolin	85
+酵母双杂交 yeast two-hybridization 51
+阶段特异性 stage specificity 210, 319
+结蛋白	desmin	161
+结构基因 structural gene 194
+结构域 structural domain 23
+388
+
+结合变构机制 binding-change mechanism 144
+姐妹染色单体 sister chromatid 182
+解整联蛋白金属蛋白酶 a disintegrin and metalloprotease，
+ADAM 310
+金属投影法 metal shadowing 34
+紧密连接 tight junction 220
+进位 registration 207
+近成熟卵泡 premature follicle 305
+近端着丝粒染色体 acrocentric chromosome 182
+近分泌相互作用 juxtacrine interaction 253, 328
+精蛋白 protamine 303
+精原干细胞 spermatogonial stem cell 302, 366
+精原细胞 spermatogonium 302, 366
+精子 spermatozoon 301, 303
+精子发生 spermatogenesis 302, 366
+精子细胞 spermatid 302, 303
+静息态 quiescence 335
+巨胞饮 macropinocytosis 85
+巨自噬 macroautophagy 110
+聚合期 polymerization phase 150
+卷曲螺旋 coiled-coil 161
+K
+抗肌萎缩蛋白 dystrophin 156
+颗粒层 stratum granulosum 306
+颗粒内质网 granular endoplasmic reticulum，GER 90
+颗粒下区 subgranular zone，SGZ 364
+颗粒组分 granular component，GC 184
+可变剪接 alternative splicing 326
+可溶性N-乙基马来酰亚胺敏感因子结合蛋白受体
+soluble N-ethylmaleimide-sensitive factor attachment
+protein receptor，SNARE 121
+可塑性 plasticity 361
+空间特异性 spatial specificity 210, 319
+空间转录组学 spatial transcriptomics 56
+L
+劳斯肉瘤病毒 Rous sarcoma virus，RSV 268
+老化 aging 335
+类病毒 viroid 13
+类泛素修饰 sumoylation 214
+类核体 nucleoid 114
+类晶体 crystalloid 114
+类器官 organoid 8, 379
+冷冻电镜 cryo-electron microscopy,cryo-EM 34
+冷冻断裂 freeze fracturing 34
+冷冻蚀刻 freeze etching 34
+离体 in vitro 335
+离子耦联 ionic coupling 227
+离子通道 ion channel 78
+离子通道耦联受体 ion channel-coupled receptor 257
+利尿钠肽受体2 natriuretic peptide receptor 2，NPr2 306
+连接子 connexon 226
+连接子蛋白 connexin，Cx 226
+连续性分泌 continuous secretion 86, 104
+联蛋白 catenin 223
+联会 synapsis 282
+联会复合体 synaptonemal complex，SC 282
+亮氨酸拉链 leucine zipper 23, 213
+磷酸化 phosphorylation 214
+磷酸葡萄糖变位酶 phosphoglucomutase 100
+磷脂交换蛋白 phospholipid exchange protein，PEP 100
+磷脂酶C phospholipase C，PLC 262
+磷脂酸 phosphatidic acid 100
+磷脂酰丝氨酸 phosphatidylserine，PS 342
+流动镶嵌模型 fluid mosaic model 71
+流式细胞仪 flow cytometer 37
+硫酸角质素 keratan sulfate，KS 241
+硫酸皮肤素 dermatan sulfate，DS 240
+硫酸软骨素 chondroitin sulfate，CS 240
+硫酸乙酰肝素 heparan sulfate，HS 241
+绿色荧光蛋白 green fluorescent protein，GFP 48, 118
+卵裂 cleavage 301, 312
+卵泡 follicle 305
+卵泡腔 follicular antrum 305
+卵泡细胞 follicle cell 305
+卵丘 cumulus oophorus 305
+卵丘颗粒细胞 cumulus granulosa cell 306
+卵外被 egg coat 306
+卵原细胞 oogonium 305
+卵子 ovum，egg 301
+卵子发生 oogenesis 302
+螺线管 solenoid 180
+螺旋-环-螺旋 helix-loop-helix, HLH 23, 213
+螺旋-转角-螺旋 helix-turn-helix, HTH 213
+螺旋-转角-螺旋结构域 helix-turn-helix domain 318
+M
+马达蛋白 motor protein 152
+锚定连接 anchoring junction 220
+酶联受体 enzyme-linked receptor 257
+酶细胞化学技术 enzyme cytochemistry technique 47
+门控运输 gated transport 116
+米勒模拟实验 Miller’s simulated experiment 26
+389
+
+密度依赖性抑制 density-dependent inhibition 330
+密封蛋白 claudin 222
+密码子 codon 18, 202
+免疫沉淀 immunoprecipitation，IP 51
+免疫磁珠 immunomagnetic bead 37
+免疫球蛋白超家族 immunoglobin superfamily，IgSF 232
+免疫球蛋白重链结合蛋白 immunoglobulin heavy chain-
+binding protein，BiP 94
+免疫细胞化学技术 immunocytochemistry technique，ICC 47
+模板链 template strand 198
+膜间腔 intermembrane space 132
+膜接触位点 membrane contact site，MCS 100, 125
+膜桥蛋白 ponticulin 156
+膜生物学 membrane biology 2
+膜脂 membrane lipid 62
+末期 telophase 280
+母体基因 maternal gene 318
+母体效应基因 maternal effect gene 318
+N
+囊泡SNARE vesicle-SNARE，v-SNARE 121
+囊泡相关膜蛋白 vesicle-associated membrane protein，
+VAMP 121
+囊泡运输 vesicular transport 81, 116
+囊胚 blastula 301, 312
+内分泌 endocrine 255
+内共生学说 endosymbiotic hypothesis 28
+内含子 intron 5, 195
+内核膜 inner nuclear membrane 170
+内开始转移肽 internal start-transfer peptide 97
+内膜 inner membrane 132
+内膜系统 endomembrane system 89
+内膜转位子 translocon of the inner membrane，TIM 132
+内胚层 endoderm 312
+内体 endosome 107
+内体分选复合体 endosomal sorting complex required for
+transport，ESCRT 124
+内体性溶酶体 endolysosome 108
+内网器 internal reticular apparatus 101
+内细胞团 inner cell mass，ICM 8, 301, 354
+内信号肽 internal signal peptide 97
+内脏内胚层 visceral endoderm 301
+内质蛋白 endoplasmin 94
+内质网 endoplasmic reticulum，ER 89
+内质网超负荷反应 ER overload response，EOR 101
+内质网 - 高尔基体中间体 ER-to-Golgi intermediate
+compartment 118
+内质网相关蛋白质降解 ER-associated protein
+degradation，ERAD 95
+内质网应激 endoplasmic reticulum stress，ERS 101
+内着丝粒蛋白 inner centromere protein，INCENP 183
+拟核 nucleoid 11
+逆向运输 retrograde transport 118
+逆转录 reverse transcription 50
+黏多糖 mucopolysaccharide 240
+黏结蛋白聚糖 syndecan 242
+黏着斑 focal adhesion 222
+黏着斑蛋白 vinculin 156, 166, 223
+黏着斑激酶 focal adhesion kinase，FAK 166, 236
+黏着带 adhesion belt 222
+黏着连接 adhering junction 222
+鸟嘌呤 guanine，G 15
+尿嘧啶 uracil，U 15
+凝溶胶蛋白 gelsolin 155
+O
+偶线期 zygotene stage 282, 302
+P
+排卵 ovulation 306
+袢环结构域 loop domain 181
+旁分泌 paracrine 255
+旁分泌因子 paracrine factor 253, 327
+胚胎干细胞 embryonic stem cell 8, 354
+胚胎生殖细胞 embryonic germ cell 356
+胚胎诱导 embryonic induction 327
+胚外外胚层 extraembryonic ectoderm 301
+胚状体 embryoid body 356
+配对域 pairing domain 182
+配体门控通道 ligand-gated channel 79
+配子 gamete 301
+配子发生 gametogenesis 302
+皮质 cortex 306
+皮质反应 cortical reaction 306, 311
+皮质颗粒 cortical granule 305
+脾集落形成实验 spleen colony-forming assay 363
+片状伪足 lamellipodia 158
+嘌呤霉素 puromycin 95
+平衡沉降 equilibrium sedimentation 42
+平衡期 equilibrium phase 150
+葡萄糖调节蛋白94 glucose regulated protein 94 94
+谱系重编程 lineage reprogramming 378
+谱系示踪 lineage tracing 361
+390
+
+谱系限定性 lineage restriction 361
+Q
+七位复件 heptad repeat 161
+启动子 promoter 195
+起始点识别复合体 origin recognition complex，ORC 291
+起始膜 phagophore 110
+起始因子 initiation factor，IF 205
+器官发生 organogenesis 312
+前导链 leading strand 190
+前导肽 leader peptide 116
+前胶原 procollagen 245
+前期 prophase 278
+前溶酶体 prelysosome 111
+前肽 prepeptide 245
+前中期 prometaphase 279
+腔内囊泡 intraluminal vesicle，ILV 123
+桥粒 desmosome 222
+桥粒斑 desmosomal plaque 224
+桥粒胶蛋白 desmocollin 224
+桥粒连接 desmosome junction 222
+桥粒黏蛋白 desmoglein 224
+亲核蛋白 karyophilic protein 174
+轻链复制起始点 origin of light-strand replication，OL 135
+轻链启动子 light-strand promoter，LSP 133
+秋水仙碱 colchicine 151
+驱动蛋白 kinesin 5, 152
+趋化 chemotaxis 167
+去分化 dedifferentiation 315, 378
+去甲基化酶 demethylase 216
+全内反式荧光显微镜 total internal reflection fluorescence
+microscope，TIRFM 49
+全能干细胞 totipotent stem cell 354
+全能性细胞核 totipotent nucleus 313
+R
+染色单体连接蛋白 chromatid linking protein，CLIP 183
+染色体 chromosome 176
+染色体病 chromosomal disease 192
+染色体生物学 chromosome biology 2
+染色质 chromatin 176
+染色质重塑 chromatin remodeling 214
+染色质免疫沉淀 chromatin immunoprecipitation，ChIP
+53
+热激蛋白 heat shock protein，Hsp 208
+热激蛋白70 heat shock protein 70，Hsp70 94, 136
+人类基因组计划 human genome project，HGP 6
+人类免疫缺陷病毒 human immunodeficiency virus，HIV 348
+人类细胞图谱计划 human cell atlas project，HCA 6
+绒毛蛋白 villin 155
+溶酶体 lysosome 106
+溶酶体整合膜蛋白 lysosomal integral membrane protein，
+LIMP 107
+朊病毒 prion 13
+S
+塞托利细胞 Sertoli cell 302
+三级溶酶体 tertiary lysosome 112
+三羧酸循环 tricarboxylic acid cycle，TCA cycle 139
+三维细胞培养 three-dimensional cell culture，TDCC 373
+三向分化 tri-lineage differentiation 363
+桑葚胚 morula 301
+扫描电子显微镜 scanning electron microscope，SEM 34
+扫描隧道显微镜 scanning tunneling microscope，STM
+36
+扫描探针显微镜 scanning probe microscope，SPM 35
+上胚层 epiblast 301
+上皮 - 间质转化 epithelial-mesenchymal transition，EMT
+230, 330, 339
+上游启动子序列 upstream promoter sequence，UPS 196
+上游启动子元件 upstream promoter element，UPE 196
+深度测序 deep sequencing 55
+神经干细胞 neural stem cell，NSC 364
+神经母细胞 neuroblast 365
+神经前体细胞 neural precursor cell，NPC 329, 365
+神经上皮干细胞蛋白 nestin 161
+神经丝蛋白 neurofilament protein 161
+神经细胞黏附分子 neural cell adhesion molecule，
+N-CAM，NCAM 232
+生精上皮 spermatogenic epithelium 302
+生精细胞 spermatogenic cell 302
+生精小管 seminiferous tubule 302
+生物大分子复合物 biomacromolecular complex 24
+生物分子凝聚体 biomolecular condensate 24
+生物工程 bioengineering 371
+生物技术 biotechnology 371
+生物膜 biomembrane 13, 62
+生物氧化 biological oxidation 139
+生长因子 growth factor 296
+生殖干细胞 germ stem cell 301
+生殖嵴 genital ridge 301
+生殖细胞 germ cell 301
+生殖性克隆 reproductive cloning 376
+391
+
+失巢凋亡 anoikis 9, 252, 342
+时间特异性 temporal specificity 210, 319
+视网膜神经节细胞 retinal ganglion cell，RGC 339
+适应性表达 adaptive expression 210
+室管膜下区 subventricular zone，SVZ 364
+释放因子 release factor，RF 205
+噬菌体展示 phage display 52
+收缩环 contractile ring 159, 281
+受精 fertilization 308
+受精卵 fertilized ovum，fertilized egg 301
+受体 receptor 256
+受体病 receptor disease 274
+受体介导的胞吞 receptor-mediated endocytosis 82
+受体酪氨酸激酶 receptor tyrosine kinase，RTK 264
+受体没收 receptor sequestration 273
+受体失活 receptor inactivation 274
+受体下调 receptor down-regulation 274
+输出蛋白 exportin 176
+输入蛋白 importin 175
+衰老相关β- 半乳糖苷酶 senescence-associated
+β-galactosidase，SA-β-gal 336
+衰老相关的分泌表型 senescence-associated secretory
+phenotype，SASP 336
+衰老相关的异染色质凝集 senescence-associated
+heterochromatin foci，SAHF 336
+拴系蛋白 tethering protein 125
+双线期 diplotene stage 283
+双胸复合体 bithorax complex 322
+水孔蛋白 aquaporin，AQP 79
+顺面 cis-face 101
+顺面高尔基网 cis-Golgi network 102
+顺式作用元件 cis-acting element 211
+顺向运输 anterograde transport 118
+丝束蛋白 fimbrin 155, 158
+丝状伪足 filopodia 158
+死亡受体 death receptor，DR 345
+死亡诱导信号复合体 death inducing signaling complex，
+DISC 346
+四分体 tetrad 282
+四聚体 tetramer 161
+苏木精 hematoxylin 30
+速度沉降 velocity sedimentation 42
+酸性角蛋白 acidic keratin 161
+随体 satellite 183
+髓样结构 myelin figure 112
+髓样体 myeloid body 92
+T
+踏车运动 treadmilling 151
+肽 peptide 21
+弹性蛋白 elastin 247
+弹性蛋白酶 elastase 247
+糖胺聚糖 glycosaminoglycan，GAG 240
+糖蛋白 glycoprotein 24
+糖基化 glycosylation 97
+糖基磷脂酰肌醇 glycosylphosphatidylinositol，GPI 24
+糖基磷脂酰肌醇锚定蛋白 glycosylphosphatidylinositol-
+anchored protein，GPI-anchored protein 66
+糖基转移酶 glycosyltransferase 103
+糖酵解 glycolysis 139
+糖原合酶 glycogen synthase 100
+糖原磷酸化酶 glycogen phosphorylase 100
+糖脂 glycolipid 24, 64
+体细胞核移植 somatic cell nuclear transfer，SCNT 356,
+375
+调节基因 regulatory gene 194
+调节性分泌 regulated secretion 86
+调控区 control region 319
+调控性细胞死亡 regulated cell death，RCD 9, 340
+贴壁依赖性生长 anchorage dependent growth 252
+铁死亡 ferroptosis 9, 340
+停靠蛋白 docking protein 95
+停止转移序列 stop transfer sequence 97
+通讯连接 communicating junction 220
+通用转录因子 general transcription factor 199
+同核体 homokaryon 373
+同向运输 symport 77
+同源重组 homologous recombination 57
+同源染色体 homologous chromosome 282
+同源异形复合体 homeotic complex，HOM-C 322
+同源异形基因 homeotic gene 321
+同源异形结构域 homeodomain 213, 321
+同源异形结构域蛋白 homeodomain protein 321
+同源异形框 homeobox 321
+同源异形框基因 homeobox gene 5, 321
+同源异形转化 homeosis 322
+透明带 zona pellucida 305
+透明带蛋白 zona pellucida protein，ZP 309
+透明质酸 hyaluronic acid，HA 240
+透射电子显微镜 transmission electron microscope，TEM
+33
+突触 synapse 227
+突触融合蛋白 syntaxin 121
+吞噬溶酶体 phagolysosome 112
+392
+
+吞噬作用 phagocytosis 81
+脱氧核糖核酸 deoxyribonucleic acid，DNA 15
+W
+外核膜 outer nuclear membrane 170
+外泌体 exosome 7, 124, 255
+外膜 outer membrane 131
+外膜转位子 translocon of the outer membrane，TOM 132
+外胚层 ectoderm 312
+外显子 exon 195
+外周蛋白 peripherin 161
+晚期内体 late endosome 107
+网格蛋白 clathrin 82
+网格蛋白有被小泡 clathrin-coated vesicle 117
+网质蛋白 reticuloplasmin 93
+微变态再生 epimorphosis regeneration 332
+微管 microtubule 148
+微管蛋白 -GTP帽 tubulin-GTP cap 150
+微管结合蛋白 microtubule associated protein，MAP 149
+微管组织中心 microtubule organizing center，MTOC 149
+微环境 microenvironment 361
+微环境稳态 microenviromental homeostasis 239
+微棘 microspike 158
+微粒体 microsome 41, 92
+微绒毛 microvillus 158
+微丝 microfilament，MF 154
+微体 microbody 114
+微小RNA microRNA，miRNA 20
+微载体 microcarrier 372
+微自噬 microautophagy 110
+未折叠蛋白反应 unfolded protein response，UPR 97
+稳定期 steady state phase 150
+稳态 homeostasis 358
+无活性溶酶体 inactive lysosome 112
+无精子症因子 azoospermia factor，AZF 304
+无颗粒内质网 agranular endoplasmic reticulum，AER 90
+无丝分裂 amitosis 4, 285
+无性生殖 asexual reproduction 301
+X
+稀有碱基 rare base 202
+系统性红斑狼疮 systemic lupus erythematosus，SLE 348
+细胞 cell 2
+细胞表面受体 cell surface receptor 256
+细胞重编程 cellular reprogramming 315, 377
+细胞凋亡 apoptosis 340
+细胞分化 cell differentiation 8, 312
+细胞分化主导（主控）基因 master control gene 320
+细胞分裂 cell division 278
+细胞工程 cell engineering 371
+细胞骨架 cytoskeleton 13, 148
+细胞核 nucleus 12
+细胞核移植 nuclear transfer 374
+细胞呼吸 cellular respiration 139
+细胞化学技术 cytochemistry technique 47
+细胞间黏附分子 intercelluar adhesion molecule，I-CAM，
+ICAM 232
+细胞焦亡 pyroptosis 9, 340
+细胞决定 cell determination 313
+细胞连接 cell junction 220
+细胞膜 cell membrane 12, 62
+细胞内受体 intracellular receptor 256
+细胞黏附 cell adhesion 220, 228
+细胞黏附分子 cell adhesion molecule，CAM 228
+细胞培养 cell culture 38
+细胞皮层 cell cortex 158
+细胞谱系 cell lineage 320
+细胞器互作 organellar interaction 125
+细胞融合 cell fusion 373
+细胞色素c氧化酶Ⅰ cytochrome c oxidaseⅠ，COXⅠ 133
+细胞社会学 cytosociology 2
+细胞生理学 cytophysiology 2
+细胞生物学 cell biology 2
+细胞衰老 cell senescence 9, 335
+细胞死亡 cell death 9
+细胞松弛素B cytochalasin B 158
+细胞通讯 cell communication 255
+细胞外被 cell coat 67
+细胞外基质 extracellular matrix，ECM 239
+细胞系 cell line 39
+细胞学说 cell theory 3
+细胞氧化 cellular oxidation 139
+细胞遗传学 cytogenetics 2
+细胞杂交 cell hybridization 373
+细胞质 cytoplasm 4, 12
+细胞质溶胶 cytosol 13
+细胞周期 cell cycle 8, 278, 285
+细胞周期蛋白 cyclin 5, 288
+细胞周期蛋白依赖性激酶 cyclin-dependent kinase，Cdk
+288, 337
+细胞周期检查点 cell cycle checkpoint 8
+细胞周期阻滞 cell cycle arrest 295
+细胞株 cell strain 39
+细胞自杀 cell suicide 344
+393
+
+细胞自噬 autophagy 109
+细胞组 cytome 9
+细胞组学 cytomics，cellomics 9
+细肌丝 thin myofilament 159
+细菌 bacteria 11
+细丝蛋白 filamin 155
+细线期 leptotene stage 282, 302
+纤连蛋白 fibronectin，FN 248
+纤毛 cilium 152
+纤维冠 fibrous corona 183
+纤维中心 fibrillar center，FC 184
+纤维状蛋白 fibrous protein 161
+衔接蛋白 adaptin 117
+显微操作 micromanipulation 374
+显微电影摄影术 microcinematography 30
+显微结构 microscopic structure 29
+线粒体 mitochondrion，mitochondria 131
+线粒体DNA mitochondrial DNA，mtDNA 133
+线粒体病 mitochondrial disorder 146
+线粒体动力学 mitochondrial dynamics 137 线粒体膜通透性转换孔 mitochondrial permeability
+transition pore，MPTP 139
+线粒体脑肌病 mitochondrial encephalomyopathy 146
+线粒体失能 mitochondrial dysfunction 337
+线粒体失能关联的细胞衰老 mitochondrial dysfunction-
+associated senescence，MiDAS 338
+线粒体外膜通透作用 mitochondrial outer membrane
+permeability，MOMP 346
+线粒体转录因子1 mitochondrial transcription factor 1，
+mtTFA 133
+腺苷酸环化酶 adenylate cyclase，AC 261
+腺嘌呤 adenine，A 15
+相差显微镜 phase contrast microscope 30
+消化泡 digestive vacuole 112
+小干扰RNA small interfering RNA，siRNA 20, 50
+小核RNA small nuclear RNA，snRNA 20, 200
+小泡 vesicle 101, 116
+协同运输 cotransport 77
+锌指结构 zinc finger 212
+信号斑 signal patch 99
+信号蛋白失活 inactivation of signaling protein 274
+信号分子 signal molecule 256
+信号级联反应 signaling cascade 259
+信号识别颗粒 signal recognition particle，SRP 95
+信号识别颗粒受体 SRP-receptor，SRP-R 95
+信号肽 signal peptide，signal sequence 95
+信号肽假说 signal hypothesis 5, 95
+信号转导 signal transduction 7, 255
+信号转导通路 signaling pathway 7
+信使RNA messenger RNA，mRNA 195
+星体 aster 279
+形成面 forming face 101
+形态重组再生 morphallactic regeneration 332
+形态发生因子 morphogenetic factor 306
+性别决定 sex determination 301
+胸腺嘧啶 thymine，T 15
+胸腺素 thymosin 155
+雄激素结合蛋白 androgen-binding protein，ABP 304
+雄原核 male pronucleus 310
+悬浮培养 suspension culture 371
+选择素 selectin 228
+血岛 blood island 363
+血管细胞黏附分子 vascular cell adhesion molecule，
+V-CAM，VCAM 232
+血小板内皮细胞黏附分子 platelet endothelial cell
+adhesion molecule，PE-CAM，PECAM 232
+循环内体 recycling endosome 107
+Y
+芽生 budding 120
+亚显微结构 submicroscopic structure 12, 33
+亚中着丝粒染色体 submetacentric chromosome 182
+延长期 elongation phase 150
+延长因子 elongation factor，EF 205
+延迟期 lag phase 150
+氧化磷酸化 oxidative phosphorylation 139
+氧化应激 oxidative stress 337
+液泡 vacuole 102
+液 - 液相分离 liquid-liquid phase separation 217
+伊红 eosin 30
+衣被蛋白Ⅰ coatomer proteinⅠ，COPⅠ 118
+衣被蛋白Ⅱ coatomer proteinⅡ，COPⅡ 118
+医学细胞生物学 medical cell biology 7
+遗传密码 genetic code 202
+乙酰胆碱受体 acetylcholine receptor，AChR 79
+乙酰化 acetylation 214
+异核体 heterokaryon 373
+异染色质 heterochromatin 179
+异噬溶酶体 heterophagic lysosome 112
+异噬体 heterophagolysosome 112
+异体吞噬泡 heterophagic vacuole 112
+异养生物 heterotroph 131
+异质性 heterogeneity 106
+抑素 chalone 297
+394
+
+抑制性G蛋白 inhibitory G-protein，Gi 261
+抑制性受体 inhibitory receptor，Ri 261
+易化扩散 facilitated diffusion 74
+意外性细胞死亡 accidental cell death，ACD 9, 340
+引物 primer 190
+印记基因 imprinted gene 324
+婴儿型脊髓性肌萎缩 infantile spinal muscular atrophy 167
+荧光共振能量转移 fluorescence resonance energy transfer，FRET 53
+荧光激活细胞分选仪 fluorescence-activated cell sorter，
+FACS 37
+荧光漂白恢复 fluorescence photobleaching recovery，FPR 70
+荧光实时定量PCR fluorescence real-time quantitative PCR 50
+荧光显微镜 fluorescence microscope 31
+应力纤维 stress fiber 158
+有被小泡 coated vesicle 101
+有丝分裂 mitosis 4, 278
+有丝分裂器 mitotic apparatus 279
+有性生殖 sexual reproduction 301
+有意义链 sense strand 198
+诱导多能干细胞 induced pluripotent stem cell，iPSC 8,
+356, 378
+原癌基因 proto-oncogene 5, 298
+原肠胚 gastrula 301
+原代培养 primary culture 39
+原核细胞 prokaryotic cell 11
+原肌球蛋白 tropomyosin 159
+原胶原 tropocollagen 244
+原溶酶体 proto-lysosome 111
+原生质 protoplasm 3, 14
+原始卵泡 primordial follicle 305
+原始生殖细胞 primordial germ cell，PGC 301
+原位杂交 in situ hybridization，ISH 50
+原子力显微镜 atomic force microscope，AFM 36
+运输小泡 transport vesicle 101
+Z
+杂交瘤 hybridoma 379
+杂交细胞 hybrid cell 373
+再生 regeneration 332
+再生胚芽 regeneration blastema 332
+再殖 repopulate 363
+在体 in vivo 335
+早期内体 early endosome 107
+造血干细胞 hematopoietic stem cell，HSC 363
+增强子 enhancer 211
+真核细胞 eukaryotic cell 11
+真菌鬼笔鹅膏 Amanita phalloides 158
+整联蛋白 integrin 233, 310
+正性调控 positive regulation 210
+支持细胞 sustentacular cell 302
+支原体 mycoplasma 11
+脂筏 lipid raft 71
+脂肪酸 fatty acid 15
+脂褐素 lipofuscin 112
+脂连接蛋白 lipid-linked protein 66
+脂酰辅酶A acyl-CoA 100
+脂酰基转移酶 acyltransferase 100
+脂质体 liposome 65, 376
+质粒 plasmid 12
+质膜 plasma membrane 62
+治疗性克隆 therapeutic cloning 375
+致密纤维组分 dense fibrillar component，DFC 184
+致育蛋白 fertilin 310
+中度重复序列 moderately repetitive sequence 177, 196
+中间纤维 intermediate filament，IF 160
+中胚层 mesoderm 312
+中期 metaphase 280
+中心法则 central dogma 194
+中心粒 centriole 150, 278
+中心粒周物质 pericentriolar material 150
+中心体 centrosome 150, 278
+中心域 central domain 182
+中性 / 碱性角蛋白 neutral or basic keratin 161
+中央鞘 central sheath 152
+中着丝粒染色体 metacentric chromosome 182
+终变期 diakinesis stage 283
+终末溶酶体 telolysosome 112
+终止子 terminator 196
+种群不对称分裂 populational asymmetric division 359
+重链复制起始点 origin of heavy-strand replication，OH 135
+重链启动子 heavy-strand promoter，HSP 133
+重症肌无力 myasthenia gravis 275
+潴泡 cisterna 101
+主动脉 - 性腺 - 中肾 aorta-gonad-mesonephros，AGM 363
+主动运输 active transport 73
+主缢痕 primary constriction 182
+驻留蛋白 retention protein 94
+驻留信号 retention signal 94
+柱层析 column chromatography 43
+395
+
+专能性干细胞 multipotent stem cell 354
+转变蛋白 transition protein 303
+转分化 transdifferentiation 315, 378
+转化生长因子β transforming growth factor-β，TGF-β 362
+转化医学 translational medicine 7
+转基因动物 transgenic animal 376
+转基因小鼠 transgenic mouse 57
+转决定 transdetermination 315, 378
+转录 transcription 17, 191, 194
+转录激活蛋白 activator 214
+转录激活域 transcription activating domain 212
+转录因子 transcription factor 23, 199
+转录组 transcriptome 55
+转录组学 transcriptomics 55
+转染 transfection 50
+转肽酶 transpeptidase 205
+转位 translocation 207
+转位接触点 translocation contact site 132
+转运RNA transfer RNA，tRNA 195
+转运囊泡 transport vesicle 116
+转运体 translocon，translocator 95
+转运体蛋白 transporter protein 73
+桩蛋白 paxillin 166
+着丝粒 centromere 182
+着丝粒蛋白 centromere protein，CENP 183
+着丝粒 - 动粒复合体 centromere-kinetochore complex 182
+着丝粒序列 centromere sequence 178
+紫杉醇 taxol 151
+紫外交联免疫沉淀 ultraviolet crosslinking and
+immunoprecipitation，CLIP 55
+自分泌 autocrine 255
+自然栖息地 native habitat 368
+自噬泡 autophagic vacuole 109
+自噬溶酶体 autophagolysosome 109, 112
+自噬体 autophagosome 109, 112
+自噬性凋亡 autophagic apoptosis 9
+自噬性细胞死亡 autophagic cell death 340
+自噬依赖性细胞死亡 autophagy-dependent cell death
+340
+自体磷酸化 autophosphorylation 264
+自体吞噬泡 autophagic vacuole 112
+自稳定性 self-maintenance 359
+自我更新 self-renewal 354
+自养生物 autotroph 131
+阻遏蛋白 repressor 214
+组成性表达 constitutive expression 210
+组成性异染色质 constitutive heterochromatin 179
+组蛋白 histone 178
+组蛋白密码 histone code 214
+组蛋白去乙酰化酶 histone deacetylase，HDAC 215
+组蛋白乙酰转移酶 histone acetyltransferase，HAT 215
+组合调控 combinatory control 320
+组织特异性 tissue specificity 210
+组织特异性干细胞 tissue-specific stem cell 354
+祖细胞 progenitor cell 301
+396
